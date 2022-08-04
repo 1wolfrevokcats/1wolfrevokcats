@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : Styled Components
 - 🌱 I’m currently learning : Styled Components
 - 👯 I’m looking to collaborate on : React & Angular
+- 🤔 I’m looking for help with in depth concepts of javascript...
+- 💬 Ask me about HTML , JS
+- 📫 How to reach me: @dsouza_milton on twitter, or milton.dsouza1@gmail.com
+- 😄 Pronouns: Milton
+- ⚡ Fun fact: also a huge fan of anime and video games.
