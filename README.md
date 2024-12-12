@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on : Typescript
-- 🌱 I’m currently learning : Typescript
+- 🔭 I’m currently working on : Company project.
+- 🌱 I’m currently learning : Angular 17
 - 👯 I’m looking to collaborate on : React & Angular
 - 🤔 I’m looking for help with in depth concepts of javascript and typescript...
 - 💬 Ask me about HTML , JS, TS, React
